@@ -1,5 +1,5 @@
 require_relative 'config/environment'
-
+#controller
 class App < Sinatra::Base
 
   get '/food_form' do
